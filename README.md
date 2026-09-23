@@ -14,6 +14,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/Adityasharma-6782/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0976-largest-perimeter-triangle](https://github.com/Adityasharma-6782/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1122-relative-sort-array](https://github.com/Adityasharma-6782/Leetcode/tree/master/1122-relative-sort-array) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Adityasharma-6782/Leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -47,6 +48,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Adityasharma-6782/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0976-largest-perimeter-triangle](https://github.com/Adityasharma-6782/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1122-relative-sort-array](https://github.com/Adityasharma-6782/Leetcode/tree/master/1122-relative-sort-array) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Adityasharma-6782/Leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -69,6 +71,7 @@
 | [0075-sort-colors](https://github.com/Adityasharma-6782/Leetcode/tree/master/0075-sort-colors) |
 | [0976-largest-perimeter-triangle](https://github.com/Adityasharma-6782/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1122-relative-sort-array](https://github.com/Adityasharma-6782/Leetcode/tree/master/1122-relative-sort-array) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Adityasharma-6782/Leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Bubble Sort
 |  |
 | ------- |
