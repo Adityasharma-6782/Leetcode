@@ -12,6 +12,7 @@
 | [0457-circular-array-loop](https://github.com/Adityasharma-6782/Leetcode/tree/master/0457-circular-array-loop) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Adityasharma-6782/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0713-subarray-product-less-than-k](https://github.com/Adityasharma-6782/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/Adityasharma-6782/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0976-largest-perimeter-triangle](https://github.com/Adityasharma-6782/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1122-relative-sort-array](https://github.com/Adityasharma-6782/Leetcode/tree/master/1122-relative-sort-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Adityasharma-6782/Leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -64,6 +65,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Adityasharma-6782/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Adityasharma-6782/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/Adityasharma-6782/Leetcode/tree/master/0904-fruit-into-baskets) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -107,6 +109,7 @@
 | [0141-linked-list-cycle](https://github.com/Adityasharma-6782/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Adityasharma-6782/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0457-circular-array-loop](https://github.com/Adityasharma-6782/Leetcode/tree/master/0457-circular-array-loop) |
+| [0904-fruit-into-baskets](https://github.com/Adityasharma-6782/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1122-relative-sort-array](https://github.com/Adityasharma-6782/Leetcode/tree/master/1122-relative-sort-array) |
 ## Linked List
 |  |
