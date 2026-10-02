@@ -6,6 +6,7 @@
 | [0015-3sum](https://github.com/Adityasharma-6782/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Adityasharma-6782/Leetcode/tree/master/0018-4sum) |
 | [0055-jump-game](https://github.com/Adityasharma-6782/Leetcode/tree/master/0055-jump-game) |
+| [0057-insert-interval](https://github.com/Adityasharma-6782/Leetcode/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/Adityasharma-6782/Leetcode/tree/master/0075-sort-colors) |
 | [0209-minimum-size-subarray-sum](https://github.com/Adityasharma-6782/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Adityasharma-6782/Leetcode/tree/master/0287-find-the-duplicate-number) |
