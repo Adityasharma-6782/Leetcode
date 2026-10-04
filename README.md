@@ -12,6 +12,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Adityasharma-6782/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0228-summary-ranges](https://github.com/Adityasharma-6782/Leetcode/tree/master/0228-summary-ranges) |
 | [0287-find-the-duplicate-number](https://github.com/Adityasharma-6782/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0303-range-sum-query-immutable](https://github.com/Adityasharma-6782/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0457-circular-array-loop](https://github.com/Adityasharma-6782/Leetcode/tree/master/0457-circular-array-loop) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Adityasharma-6782/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0713-subarray-product-less-than-k](https://github.com/Adityasharma-6782/Leetcode/tree/master/0713-subarray-product-less-than-k) |
@@ -74,6 +75,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Adityasharma-6782/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0303-range-sum-query-immutable](https://github.com/Adityasharma-6782/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0713-subarray-product-less-than-k](https://github.com/Adityasharma-6782/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 ## Quicksort
 |  |
@@ -173,4 +175,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Adityasharma-6782/Leetcode/tree/master/0169-majority-element) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Adityasharma-6782/Leetcode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
