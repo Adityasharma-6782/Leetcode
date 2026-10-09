@@ -1,21 +1,21 @@
+
 class Solution {
 public:
     int totalFruit(vector<int>& fruits) {
-        int last=-1, secondLast=-1;
-        int lastCount=0, curr=0, maxFruits=0;
+        int k = 2;
+        int ans = 0;
+        int low = 0;
+        unordered_map<int, int> f;
 
-        for(int fruit : fruits){
-            if(fruit==last || fruit==secondLast) curr++;
-            else curr = lastCount+1;
-
-            if(fruit==last) lastCount++;
-            else{
-                lastCount = 1;
-                secondLast= last;
-                last = fruit;
+        for (int high = 0; high < fruits.size(); high++) {
+            f[fruits[high]]++;
+            while (f.size() > k) {
+                f[fruits[low]]--;
+                if (f[fruits[low]] == 0) f.erase(fruits[low]);
+                low++;
             }
-            maxFruits = max(maxFruits, curr);
+            ans = max(ans, high - low + 1);
         }
-        return maxFruits;
+        return ans;
     }
 };
