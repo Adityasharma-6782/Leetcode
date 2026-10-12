@@ -159,11 +159,13 @@
 | ------- |
 | [0143-reorder-list](https://github.com/Adityasharma-6782/Leetcode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Adityasharma-6782/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/Adityasharma-6782/Leetcode/tree/master/0326-power-of-three) |
 ## Math
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Adityasharma-6782/Leetcode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Adityasharma-6782/Leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0326-power-of-three](https://github.com/Adityasharma-6782/Leetcode/tree/master/0326-power-of-three) |
 | [0976-largest-perimeter-triangle](https://github.com/Adityasharma-6782/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 ## Polygons
 |  |
