@@ -150,6 +150,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Adityasharma-6782/Leetcode/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/Adityasharma-6782/Leetcode/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/Adityasharma-6782/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Adityasharma-6782/Leetcode/tree/master/0342-power-of-four) |
@@ -167,6 +168,7 @@
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Adityasharma-6782/Leetcode/tree/master/0029-divide-two-integers) |
 | [0070-climbing-stairs](https://github.com/Adityasharma-6782/Leetcode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Adityasharma-6782/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0326-power-of-three](https://github.com/Adityasharma-6782/Leetcode/tree/master/0326-power-of-three) |
