@@ -73,6 +73,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Adityasharma-6782/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0713-subarray-product-less-than-k](https://github.com/Adityasharma-6782/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Adityasharma-6782/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/Adityasharma-6782/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Sliding Window
 |  |
 | ------- |
@@ -84,6 +85,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Adityasharma-6782/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Adityasharma-6782/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Adityasharma-6782/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/Adityasharma-6782/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -91,6 +93,7 @@
 | [0303-range-sum-query-immutable](https://github.com/Adityasharma-6782/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0713-subarray-product-less-than-k](https://github.com/Adityasharma-6782/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Adityasharma-6782/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/Adityasharma-6782/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Quicksort
 |  |
 | ------- |
@@ -111,6 +114,7 @@
 | [0844-backspace-string-compare](https://github.com/Adityasharma-6782/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Adityasharma-6782/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Adityasharma-6782/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/Adityasharma-6782/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Stack
 |  |
 | ------- |
