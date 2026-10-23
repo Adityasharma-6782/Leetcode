@@ -59,6 +59,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Adityasharma-6782/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/Adityasharma-6782/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Adityasharma-6782/Leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [1768-merge-strings-alternately](https://github.com/Adityasharma-6782/Leetcode/tree/master/1768-merge-strings-alternately) |
 ## Sorting
 |  |
 | ------- |
@@ -123,6 +124,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Adityasharma-6782/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0844-backspace-string-compare](https://github.com/Adityasharma-6782/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Adityasharma-6782/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1768-merge-strings-alternately](https://github.com/Adityasharma-6782/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Adityasharma-6782/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Adityasharma-6782/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Stack
