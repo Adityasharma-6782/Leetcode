@@ -9,6 +9,7 @@
 | [0057-insert-interval](https://github.com/Adityasharma-6782/Leetcode/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/Adityasharma-6782/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Adityasharma-6782/Leetcode/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/Adityasharma-6782/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Adityasharma-6782/Leetcode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Adityasharma-6782/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0228-summary-ranges](https://github.com/Adityasharma-6782/Leetcode/tree/master/0228-summary-ranges) |
@@ -181,6 +182,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/Adityasharma-6782/Leetcode/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/Adityasharma-6782/Leetcode/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/Adityasharma-6782/Leetcode/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/Adityasharma-6782/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Adityasharma-6782/Leetcode/tree/master/0342-power-of-four) |
 ## Pigeonhole Principle
