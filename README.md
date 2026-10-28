@@ -56,6 +56,7 @@
 | [0141-linked-list-cycle](https://github.com/Adityasharma-6782/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Adityasharma-6782/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Adityasharma-6782/Leetcode/tree/master/0143-reorder-list) |
+| [0202-happy-number](https://github.com/Adityasharma-6782/Leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Adityasharma-6782/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Adityasharma-6782/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0457-circular-array-loop](https://github.com/Adityasharma-6782/Leetcode/tree/master/0457-circular-array-loop) |
@@ -157,6 +158,7 @@
 | [0141-linked-list-cycle](https://github.com/Adityasharma-6782/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Adityasharma-6782/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Adityasharma-6782/Leetcode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Adityasharma-6782/Leetcode/tree/master/0202-happy-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/Adityasharma-6782/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0457-circular-array-loop](https://github.com/Adityasharma-6782/Leetcode/tree/master/0457-circular-array-loop) |
 | [0904-fruit-into-baskets](https://github.com/Adityasharma-6782/Leetcode/tree/master/0904-fruit-into-baskets) |
@@ -179,6 +181,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Adityasharma-6782/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Adityasharma-6782/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/Adityasharma-6782/Leetcode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/Adityasharma-6782/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0457-circular-array-loop](https://github.com/Adityasharma-6782/Leetcode/tree/master/0457-circular-array-loop) |
 ## Bit Manipulation
@@ -206,6 +209,7 @@
 | [0029-divide-two-integers](https://github.com/Adityasharma-6782/Leetcode/tree/master/0029-divide-two-integers) |
 | [0070-climbing-stairs](https://github.com/Adityasharma-6782/Leetcode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Adityasharma-6782/Leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0202-happy-number](https://github.com/Adityasharma-6782/Leetcode/tree/master/0202-happy-number) |
 | [0326-power-of-three](https://github.com/Adityasharma-6782/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Adityasharma-6782/Leetcode/tree/master/0342-power-of-four) |
 | [0976-largest-perimeter-triangle](https://github.com/Adityasharma-6782/Leetcode/tree/master/0976-largest-perimeter-triangle) |
