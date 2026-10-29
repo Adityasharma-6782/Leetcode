@@ -5,6 +5,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Adityasharma-6782/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Adityasharma-6782/Leetcode/tree/master/0018-4sum) |
+| [0053-maximum-subarray](https://github.com/Adityasharma-6782/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Adityasharma-6782/Leetcode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/Adityasharma-6782/Leetcode/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/Adityasharma-6782/Leetcode/tree/master/0075-sort-colors) |
@@ -34,6 +35,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Adityasharma-6782/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Adityasharma-6782/Leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Adityasharma-6782/Leetcode/tree/master/0070-climbing-stairs) |
 | [0413-arithmetic-slices](https://github.com/Adityasharma-6782/Leetcode/tree/master/0413-arithmetic-slices) |
@@ -230,6 +232,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Adityasharma-6782/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Adityasharma-6782/Leetcode/tree/master/0169-majority-element) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
