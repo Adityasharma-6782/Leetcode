@@ -34,6 +34,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/Adityasharma-6782/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Adityasharma-6782/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Adityasharma-6782/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Adityasharma-6782/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -140,6 +141,7 @@
 | [1768-merge-strings-alternately](https://github.com/Adityasharma-6782/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Adityasharma-6782/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Adityasharma-6782/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Adityasharma-6782/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Stack
 |  |
 | ------- |
@@ -198,6 +200,7 @@
 | [0136-single-number](https://github.com/Adityasharma-6782/Leetcode/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/Adityasharma-6782/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Adityasharma-6782/Leetcode/tree/master/0342-power-of-four) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Adityasharma-6782/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -238,6 +241,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Adityasharma-6782/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Adityasharma-6782/Leetcode/tree/master/0169-majority-element) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Adityasharma-6782/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -254,4 +258,20 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Adityasharma-6782/Leetcode/tree/master/0078-subsets) |
+## Tree
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Adityasharma-6782/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Adityasharma-6782/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Adityasharma-6782/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Segment Tree
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Adityasharma-6782/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 <!---LeetCode Topics End-->
