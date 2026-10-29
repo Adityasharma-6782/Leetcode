@@ -11,6 +11,7 @@
 | [0075-sort-colors](https://github.com/Adityasharma-6782/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Adityasharma-6782/Leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Adityasharma-6782/Leetcode/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/Adityasharma-6782/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Adityasharma-6782/Leetcode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Adityasharma-6782/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0228-summary-ranges](https://github.com/Adityasharma-6782/Leetcode/tree/master/0228-summary-ranges) |
@@ -38,6 +39,7 @@
 | [0053-maximum-subarray](https://github.com/Adityasharma-6782/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Adityasharma-6782/Leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Adityasharma-6782/Leetcode/tree/master/0070-climbing-stairs) |
+| [0152-maximum-product-subarray](https://github.com/Adityasharma-6782/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0413-arithmetic-slices](https://github.com/Adityasharma-6782/Leetcode/tree/master/0413-arithmetic-slices) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Adityasharma-6782/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Greedy
