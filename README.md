@@ -40,6 +40,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/Adityasharma-6782/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Adityasharma-6782/Leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Adityasharma-6782/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2967-minimum-cost-to-make-array-equalindromic](https://github.com/Adityasharma-6782/Leetcode/tree/master/2967-minimum-cost-to-make-array-equalindromic) |
 | [3665-twisted-mirror-path-count](https://github.com/Adityasharma-6782/Leetcode/tree/master/3665-twisted-mirror-path-count) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Adityasharma-6782/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Dynamic Programming
@@ -63,6 +64,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Adityasharma-6782/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0976-largest-perimeter-triangle](https://github.com/Adityasharma-6782/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Adityasharma-6782/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2967-minimum-cost-to-make-array-equalindromic](https://github.com/Adityasharma-6782/Leetcode/tree/master/2967-minimum-cost-to-make-array-equalindromic) |
 ## Two Pointers
 |  |
 | ------- |
@@ -96,6 +98,7 @@
 | [1122-relative-sort-array](https://github.com/Adityasharma-6782/Leetcode/tree/master/1122-relative-sort-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Adityasharma-6782/Leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Adityasharma-6782/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2967-minimum-cost-to-make-array-equalindromic](https://github.com/Adityasharma-6782/Leetcode/tree/master/2967-minimum-cost-to-make-array-equalindromic) |
 ## Binary Search
 |  |
 | ------- |
@@ -107,6 +110,7 @@
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Adityasharma-6782/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Adityasharma-6782/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Adityasharma-6782/Leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [2967-minimum-cost-to-make-array-equalindromic](https://github.com/Adityasharma-6782/Leetcode/tree/master/2967-minimum-cost-to-make-array-equalindromic) |
 ## Sliding Window
 |  |
 | ------- |
@@ -241,6 +245,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Adityasharma-6782/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0976-largest-perimeter-triangle](https://github.com/Adityasharma-6782/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [2235-add-two-integers](https://github.com/Adityasharma-6782/Leetcode/tree/master/2235-add-two-integers) |
+| [2967-minimum-cost-to-make-array-equalindromic](https://github.com/Adityasharma-6782/Leetcode/tree/master/2967-minimum-cost-to-make-array-equalindromic) |
 ## Polygons
 |  |
 | ------- |
