@@ -42,6 +42,7 @@
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Adityasharma-6782/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/Adityasharma-6782/Leetcode/tree/master/2967-minimum-cost-to-make-array-equalindromic) |
 | [3665-twisted-mirror-path-count](https://github.com/Adityasharma-6782/Leetcode/tree/master/3665-twisted-mirror-path-count) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Adityasharma-6782/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Adityasharma-6782/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Dynamic Programming
 |  |
@@ -246,6 +247,7 @@
 | [0976-largest-perimeter-triangle](https://github.com/Adityasharma-6782/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [2235-add-two-integers](https://github.com/Adityasharma-6782/Leetcode/tree/master/2235-add-two-integers) |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/Adityasharma-6782/Leetcode/tree/master/2967-minimum-cost-to-make-array-equalindromic) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Adityasharma-6782/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Polygons
 |  |
 | ------- |
