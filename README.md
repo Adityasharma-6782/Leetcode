@@ -34,6 +34,7 @@
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Adityasharma-6782/Leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Adityasharma-6782/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Adityasharma-6782/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1711-count-good-meals](https://github.com/Adityasharma-6782/Leetcode/tree/master/1711-count-good-meals) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Adityasharma-6782/Leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Adityasharma-6782/Leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/Adityasharma-6782/Leetcode/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
@@ -199,6 +200,7 @@
 | [0904-fruit-into-baskets](https://github.com/Adityasharma-6782/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1122-relative-sort-array](https://github.com/Adityasharma-6782/Leetcode/tree/master/1122-relative-sort-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Adityasharma-6782/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1711-count-good-meals](https://github.com/Adityasharma-6782/Leetcode/tree/master/1711-count-good-meals) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Adityasharma-6782/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/Adityasharma-6782/Leetcode/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Adityasharma-6782/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
