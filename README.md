@@ -40,6 +40,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/Adityasharma-6782/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Adityasharma-6782/Leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Adityasharma-6782/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/Adityasharma-6782/Leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/Adityasharma-6782/Leetcode/tree/master/2967-minimum-cost-to-make-array-equalindromic) |
 | [3665-twisted-mirror-path-count](https://github.com/Adityasharma-6782/Leetcode/tree/master/3665-twisted-mirror-path-count) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Adityasharma-6782/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -86,6 +87,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/Adityasharma-6782/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/Adityasharma-6782/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Adityasharma-6782/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/Adityasharma-6782/Leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Sorting
 |  |
 | ------- |
@@ -99,6 +101,7 @@
 | [1122-relative-sort-array](https://github.com/Adityasharma-6782/Leetcode/tree/master/1122-relative-sort-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Adityasharma-6782/Leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Adityasharma-6782/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/Adityasharma-6782/Leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/Adityasharma-6782/Leetcode/tree/master/2967-minimum-cost-to-make-array-equalindromic) |
 ## Binary Search
 |  |
@@ -195,6 +198,7 @@
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Adityasharma-6782/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/Adityasharma-6782/Leetcode/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Adityasharma-6782/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/Adityasharma-6782/Leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Linked List
 |  |
 | ------- |
