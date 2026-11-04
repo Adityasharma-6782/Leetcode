@@ -45,6 +45,7 @@
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Adityasharma-6782/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Adityasharma-6782/Leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/Adityasharma-6782/Leetcode/tree/master/2967-minimum-cost-to-make-array-equalindromic) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Adityasharma-6782/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/Adityasharma-6782/Leetcode/tree/master/3665-twisted-mirror-path-count) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Adityasharma-6782/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Adityasharma-6782/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -61,6 +62,7 @@
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Adityasharma-6782/Leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Adityasharma-6782/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Adityasharma-6782/Leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Adityasharma-6782/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/Adityasharma-6782/Leetcode/tree/master/3665-twisted-mirror-path-count) |
 ## Greedy
 |  |
@@ -140,6 +142,7 @@
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Adityasharma-6782/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Adityasharma-6782/Leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Adityasharma-6782/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Adityasharma-6782/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -209,6 +212,7 @@
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/Adityasharma-6782/Leetcode/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Adityasharma-6782/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Adityasharma-6782/Leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Adityasharma-6782/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Linked List
 |  |
 | ------- |
@@ -261,6 +265,7 @@
 | [0976-largest-perimeter-triangle](https://github.com/Adityasharma-6782/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [2235-add-two-integers](https://github.com/Adityasharma-6782/Leetcode/tree/master/2235-add-two-integers) |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/Adityasharma-6782/Leetcode/tree/master/2967-minimum-cost-to-make-array-equalindromic) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Adityasharma-6782/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Adityasharma-6782/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Polygons
 |  |
@@ -322,6 +327,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Adityasharma-6782/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Adityasharma-6782/Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Shortest Path
 |  |
