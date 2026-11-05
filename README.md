@@ -32,6 +32,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Adityasharma-6782/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1122-relative-sort-array](https://github.com/Adityasharma-6782/Leetcode/tree/master/1122-relative-sort-array) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Adityasharma-6782/Leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Adityasharma-6782/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Adityasharma-6782/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Adityasharma-6782/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1711-count-good-meals](https://github.com/Adityasharma-6782/Leetcode/tree/master/1711-count-good-meals) |
@@ -91,6 +92,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Adityasharma-6782/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/Adityasharma-6782/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Adityasharma-6782/Leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Adityasharma-6782/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Adityasharma-6782/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/Adityasharma-6782/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Adityasharma-6782/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -106,6 +108,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Adityasharma-6782/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0976-largest-perimeter-triangle](https://github.com/Adityasharma-6782/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1122-relative-sort-array](https://github.com/Adityasharma-6782/Leetcode/tree/master/1122-relative-sort-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Adityasharma-6782/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Adityasharma-6782/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Adityasharma-6782/Leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Adityasharma-6782/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -119,6 +122,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Adityasharma-6782/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0713-subarray-product-less-than-k](https://github.com/Adityasharma-6782/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Adityasharma-6782/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Adityasharma-6782/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/Adityasharma-6782/Leetcode/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Adityasharma-6782/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Adityasharma-6782/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
