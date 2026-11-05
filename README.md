@@ -23,6 +23,7 @@
 | [0457-circular-array-loop](https://github.com/Adityasharma-6782/Leetcode/tree/master/0457-circular-array-loop) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Adityasharma-6782/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/Adityasharma-6782/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/Adityasharma-6782/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Adityasharma-6782/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0643-maximum-average-subarray-i](https://github.com/Adityasharma-6782/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Adityasharma-6782/Leetcode/tree/master/0713-subarray-product-less-than-k) |
@@ -153,6 +154,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Adityasharma-6782/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/Adityasharma-6782/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/Adityasharma-6782/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Adityasharma-6782/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Adityasharma-6782/Leetcode/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Adityasharma-6782/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -210,6 +212,7 @@
 | [0202-happy-number](https://github.com/Adityasharma-6782/Leetcode/tree/master/0202-happy-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/Adityasharma-6782/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0457-circular-array-loop](https://github.com/Adityasharma-6782/Leetcode/tree/master/0457-circular-array-loop) |
+| [0560-subarray-sum-equals-k](https://github.com/Adityasharma-6782/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Adityasharma-6782/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1122-relative-sort-array](https://github.com/Adityasharma-6782/Leetcode/tree/master/1122-relative-sort-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Adityasharma-6782/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
