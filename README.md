@@ -47,6 +47,7 @@
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Adityasharma-6782/Leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Adityasharma-6782/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Adityasharma-6782/Leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2747-count-zero-request-servers](https://github.com/Adityasharma-6782/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/Adityasharma-6782/Leetcode/tree/master/2967-minimum-cost-to-make-array-equalindromic) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Adityasharma-6782/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/Adityasharma-6782/Leetcode/tree/master/3665-twisted-mirror-path-count) |
@@ -116,6 +117,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/Adityasharma-6782/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Adityasharma-6782/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Adityasharma-6782/Leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2747-count-zero-request-servers](https://github.com/Adityasharma-6782/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/Adityasharma-6782/Leetcode/tree/master/2967-minimum-cost-to-make-array-equalindromic) |
 ## Binary Search
 |  |
@@ -148,6 +150,7 @@
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Adityasharma-6782/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Adityasharma-6782/Leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Adityasharma-6782/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2747-count-zero-request-servers](https://github.com/Adityasharma-6782/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Adityasharma-6782/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Prefix Sum
 |  |
@@ -221,6 +224,7 @@
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/Adityasharma-6782/Leetcode/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Adityasharma-6782/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Adityasharma-6782/Leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2747-count-zero-request-servers](https://github.com/Adityasharma-6782/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Adityasharma-6782/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Linked List
 |  |
