@@ -18,6 +18,7 @@
 | [0228-summary-ranges](https://github.com/Adityasharma-6782/Leetcode/tree/master/0228-summary-ranges) |
 | [0287-find-the-duplicate-number](https://github.com/Adityasharma-6782/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/Adityasharma-6782/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/Adityasharma-6782/Leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0413-arithmetic-slices](https://github.com/Adityasharma-6782/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Adityasharma-6782/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0457-circular-array-loop](https://github.com/Adityasharma-6782/Leetcode/tree/master/0457-circular-array-loop) |
@@ -301,6 +302,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Adityasharma-6782/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Adityasharma-6782/Leetcode/tree/master/0169-majority-element) |
+| [0307-range-sum-query-mutable](https://github.com/Adityasharma-6782/Leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Adityasharma-6782/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Adityasharma-6782/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Boyer–Moore Majority Vote Algorithm
@@ -311,6 +313,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Adityasharma-6782/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/Adityasharma-6782/Leetcode/tree/master/0307-range-sum-query-mutable) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -330,10 +333,12 @@
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/Adityasharma-6782/Leetcode/tree/master/0307-range-sum-query-mutable) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Adityasharma-6782/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Segment Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/Adityasharma-6782/Leetcode/tree/master/0307-range-sum-query-mutable) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Adityasharma-6782/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Graph Theory
 |  |
@@ -360,4 +365,8 @@
 |  |
 | ------- |
 | [3665-twisted-mirror-path-count](https://github.com/Adityasharma-6782/Leetcode/tree/master/3665-twisted-mirror-path-count) |
+## Sqrt Decomposition
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/Adityasharma-6782/Leetcode/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
