@@ -35,6 +35,7 @@
 | [1122-relative-sort-array](https://github.com/Adityasharma-6782/Leetcode/tree/master/1122-relative-sort-array) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Adityasharma-6782/Leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Adityasharma-6782/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1480-running-sum-of-1d-array](https://github.com/Adityasharma-6782/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Adityasharma-6782/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Adityasharma-6782/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1711-count-good-meals](https://github.com/Adityasharma-6782/Leetcode/tree/master/1711-count-good-meals) |
@@ -161,6 +162,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/Adityasharma-6782/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Adityasharma-6782/Leetcode/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Adityasharma-6782/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1480-running-sum-of-1d-array](https://github.com/Adityasharma-6782/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Adityasharma-6782/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Adityasharma-6782/Leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Quicksort
