@@ -4,14 +4,13 @@ public:
     NumArray(vector<int>& nums) {
         ans.resize(nums.size()+1);
         ans[0]=0;
-
         for(int i=0; i<nums.size(); i++){
             ans[i+1] = ans[i]+nums[i];
         }
     }
     
     int sumRange(int left, int right) {
-        return ans[right+1]-ans[left];
+        return (ans[right+1]-ans[left]);
     }
 };
 
