@@ -7,6 +7,7 @@
 | [0018-4sum](https://github.com/Adityasharma-6782/Leetcode/tree/master/0018-4sum) |
 | [0053-maximum-subarray](https://github.com/Adityasharma-6782/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Adityasharma-6782/Leetcode/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/Adityasharma-6782/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Adityasharma-6782/Leetcode/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/Adityasharma-6782/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Adityasharma-6782/Leetcode/tree/master/0078-subsets) |
@@ -108,6 +109,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Adityasharma-6782/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Adityasharma-6782/Leetcode/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/Adityasharma-6782/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Adityasharma-6782/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Adityasharma-6782/Leetcode/tree/master/0169-majority-element) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Adityasharma-6782/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -170,6 +172,7 @@
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Adityasharma-6782/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Adityasharma-6782/Leetcode/tree/master/0075-sort-colors) |
 | [0976-largest-perimeter-triangle](https://github.com/Adityasharma-6782/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1122-relative-sort-array](https://github.com/Adityasharma-6782/Leetcode/tree/master/1122-relative-sort-array) |
