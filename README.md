@@ -55,6 +55,7 @@
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Adityasharma-6782/Leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2747-count-zero-request-servers](https://github.com/Adityasharma-6782/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/Adityasharma-6782/Leetcode/tree/master/2967-minimum-cost-to-make-array-equalindromic) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Adityasharma-6782/Leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Adityasharma-6782/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/Adityasharma-6782/Leetcode/tree/master/3665-twisted-mirror-path-count) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Adityasharma-6782/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
