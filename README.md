@@ -55,6 +55,7 @@
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Adityasharma-6782/Leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2747-count-zero-request-servers](https://github.com/Adityasharma-6782/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/Adityasharma-6782/Leetcode/tree/master/2967-minimum-cost-to-make-array-equalindromic) |
+| [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/Adityasharma-6782/Leetcode/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Adityasharma-6782/Leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Adityasharma-6782/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/Adityasharma-6782/Leetcode/tree/master/3665-twisted-mirror-path-count) |
@@ -161,6 +162,7 @@
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Adityasharma-6782/Leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Adityasharma-6782/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2747-count-zero-request-servers](https://github.com/Adityasharma-6782/Leetcode/tree/master/2747-count-zero-request-servers) |
+| [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/Adityasharma-6782/Leetcode/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Adityasharma-6782/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Prefix Sum
 |  |
@@ -265,6 +267,7 @@
 | [0136-single-number](https://github.com/Adityasharma-6782/Leetcode/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/Adityasharma-6782/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Adityasharma-6782/Leetcode/tree/master/0342-power-of-four) |
+| [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/Adityasharma-6782/Leetcode/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Adityasharma-6782/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Adityasharma-6782/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Pigeonhole Principle
